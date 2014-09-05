@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <!-- Tenga en cuenta que un método onClick se define para cada botón .. -->
+ 	<string name="titulo">Servicio de Busqueda</string>
+ 	<string name="idRecurso">ID-Recurso</string>
+    <string name="tituloRecurso">Titulo</string>
+    <string name="editorial">Editorial</string>
+    <string name="anio">Anio</string>
+    <string name="estado">Estado</string>
+    <string name="buscar">Buscar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="app_name">Give Me A Book!</string>
+    <string name="IP">Direccion IP - Host</string>
+    <string name="conectar">Conectar</string>
+     
+    
+    
+ 
+</resources>
